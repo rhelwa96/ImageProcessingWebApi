@@ -1,4 +1,4 @@
-## Image processing API
+## Image processing Web API
 1) Resize any jpg image by adding its filename , width and height in  parameters of the URL as query. e.g http://localhost:3000/api/?filename=encenadaport&width=200&height=100
 2) Thumbnail image will be then as original final name with width and height.
 
